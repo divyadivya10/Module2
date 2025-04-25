@@ -1,4 +1,4 @@
-## 2A DYNAMIC MEMORY ALLOCATION
+# 2A DYNAMIC MEMORY ALLOCATION
 
 ## PROGRAM STATEMENT:
  To Write A CPP Program to allocate memory dynamically for an long integer variable. (Note: p_var = new typename;)
@@ -39,7 +39,7 @@ int main()
 Thus, the C++ program to allocate memory dynamically for a long integer variable is created
 successfully.
 
-## 2B STATIC CLASS MEMBERS
+# 2B STATIC CLASS MEMBERS
 
 ## PROGRAM STATEMENT:
 
@@ -100,7 +100,7 @@ int main(void)
 ## RESULT:  
 Thus, a CPP Program to create class RectangleBox and calculate the volume of the rectangleBoxe use of static member variable in the class RectangleBox is created successfully
 
-## FUNCTION OVERLOADING
+# FUNCTION OVERLOADING
 
 ## PROGRAM STATEMENT:
  
@@ -149,7 +149,7 @@ int main()
 ## RESULT:  
 Thus, To Write a CPP program to overload a function to print Integer data in one and Floating-Point data in another is created successfully.
 
-## OPERATOR OVERLOADING
+# OPERATOR OVERLOADING
 
 ## PROGRAM STATEMENT:
 
